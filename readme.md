@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript,linux,paython**
 
-- 💬 Ask me about **C++,Html,Css,Bootstrap,Php**
+- 💬 Ask me about **Python,Machine Learning,C++,Html,Css,Bootstrap,Php**
 
 - 📫 How to reach me **haseebcheema397@gmail.com**
 
